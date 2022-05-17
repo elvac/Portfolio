@@ -10,18 +10,18 @@
 <img src=https://github.com/elvac/Image/blob/main/projects.png width="500">
 <br /> 
 
-&emsp;&emsp;&emsp;&emsp;**[Project 1: Influenza Season Features Analysis](https://github.com/elvac/FeaturesOfInfluenza)**
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
+&emsp;&emsp;&emsp;&ensp;**[Project 1: Influenza Season Features Analysis](https://github.com/elvac/FeaturesOfInfluenza)**
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;
 **[Project 2: Rockbuster Business Strategy Support](https://github.com/elvac/BusinessStrategySupport)**
 <img src=https://github.com/elvac/Image/blob/main/virus.png width="400">
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-<img src=https://github.com/elvac/Image/blob/main/movie.png width="420" height="50">  
+<img src=https://github.com/elvac/Image/blob/main/movie.png width="420">  
 
 <br /> 
 <br /> 
 
-&emsp;&emsp;&emsp;&emsp;**[Project 3: Instacart Customer Behavior Analysis](https://github.com/elvac/CustomerBehavior)**  
-<img src=https://github.com/elvac/Image/blob/main/cart.png width="430" height="55">
+&emsp;&emsp;&emsp;&nbsp;**[Project 3: Instacart Customer Behavior Analysis](https://github.com/elvac/CustomerBehavior)**  
+<img src=https://github.com/elvac/Image/blob/main/cart.png width="430">
 
 <br /> 
 <br /> 
