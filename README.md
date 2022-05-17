@@ -1,21 +1,22 @@
 <p align="center"><img src=https://github.com/elvac/Image/blob/main/portfolio_cover.png width="1000"></p>
 
-<img src=https://github.com/elvac/Image/blob/main/about_me.png width="1000">
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-<img src=https://github.com/elvac/Image/blob/main/skill_logo.png width="450">  
+<br />
+<img src=https://github.com/elvac/Image/blob/main/about_me.png width="250">
+<img src=https://github.com/elvac/Image/blob/main/about_me_content.png width="1000">  
   
- <br />
- <br />
+<br />
+<br />
+<br />
   
 <img src=https://github.com/elvac/Image/blob/main/projects.png width="500">
 <br /> 
 
-&emsp;&emsp;&emsp;&ensp;**[Project 1: Influenza Season Features Analysis](https://github.com/elvac/FeaturesOfInfluenza)**
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;
+&emsp;&emsp;&emsp;&nbsp;**[Project 1: Influenza Season Features Analysis](https://github.com/elvac/FeaturesOfInfluenza)**
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
 **[Project 2: Rockbuster Business Strategy Support](https://github.com/elvac/BusinessStrategySupport)**
-<img src=https://github.com/elvac/Image/blob/main/virus.png width="400">
+<img src=https://github.com/elvac/Image/blob/main/virus.png width="400" height="220">
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-<img src=https://github.com/elvac/Image/blob/main/movie.png width="420">  
+<img src=https://github.com/elvac/Image/blob/main/movie.png width="420" height="220">  
 
 <br /> 
 <br /> 
@@ -25,6 +26,7 @@
 
 <br /> 
 <br /> 
+<br />
 
 <img src=https://github.com/elvac/Image/blob/main/contact_me.png width="250"> 
 
