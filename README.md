@@ -18,13 +18,13 @@
 
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display: inline-block;">
-    &emsp;&emsp;&emsp;&nbsp;<a href="https://github.com/elvac/FeaturesOfInfluenza">Project 1: Influenza Season Features Analysis</a> 
+    &emsp;&emsp;&emsp;&nbsp;<a style="font-weight:bold" style="font-size: 50px; text-decoration: none"   href="https://github.com/elvac/FeaturesOfInfluenza">Project 1: Influenza Season Features Analysis</a> 
     <br /> 
     <img width="400" height="220" src="https://user-images.githubusercontent.com/105080282/168936945-5435256a-256a-43e1-8721-71d95f1baa62.png">
     </div>
     <br /> 
     <div style="display: inline-block;">
-    &emsp;&emsp;&emsp;&nbsp;<a style="font-weight:bold" href="https://github.com/elvac/BusinessStrategySupport">Project 2: Rockbuster Business Strategy Support</a> 
+    &emsp;&emsp;&emsp;&nbsp;<a style="font-weight:bold" style="font-size: 50px; text-decoration: none" href="https://github.com/elvac/BusinessStrategySupport">Project 2: Rockbuster Business Strategy Support</a> 
     <br /> 
     <img width="420" height="220" src="https://user-images.githubusercontent.com/105080282/168955060-b5d298ef-f371-4b7a-8e51-5abd2609168a.png">
     </div>
@@ -32,14 +32,16 @@
 
 <br /> 
 
-&emsp;&emsp;&emsp;&nbsp;**[Project 3: Instacart Customer Behavior Analysis](https://github.com/elvac/CustomerBehavior)**  
+&emsp;&emsp;&emsp;&nbsp;<a style="font-weight:bold" style="font-size: 50px; text-decoration: none"   href="https://github.com/elvac/CustomerBehavior">Project 3: Instacart Customer Behavior Analysis</a> 
+    <br /> 
 <img width="420" height="220" src="https://user-images.githubusercontent.com/105080282/168955912-f7525b94-090c-42df-8e3d-fcf4a8091ce2.png">
 
 <br /> 
 <br /> 
 <br />
 
-<img src=https://github.com/elvac/Image/blob/main/contact_me.png width="250"> 
+<img width="250" alt="contact_me" src="https://user-images.githubusercontent.com/105080282/168959408-59c77813-4d3e-4fec-af5c-00d8bf0853bd.png">
+
 
 
 &nbsp;**E-mail:** [elvac88@gmail.com](mailto:elvac88@gmail.com)
