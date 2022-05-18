@@ -3,7 +3,7 @@
 
 <br />
 
-<img width="250" src="https://user-images.githubusercontent.com/105080282/168946607-ad45cb64-aee6-411c-866c-97b406688b04.png">
+<img width="190" src="https://user-images.githubusercontent.com/105080282/168946607-ad45cb64-aee6-411c-866c-97b406688b04.png">
 <p align="center">
   <img width="1000" src="https://user-images.githubusercontent.com/105080282/168946651-7f539775-05c4-4d38-8ace-31b6e9a2393b.png">
 </p>
@@ -11,20 +11,18 @@
 <br />
 <br />
 <br />
-<img width="548" src="https://user-images.githubusercontent.com/105080282/168947079-4fe43891-c726-4457-b9b2-e38a69bc7b2c.png">
+<img width="400" src="https://user-images.githubusercontent.com/105080282/168947079-4fe43891-c726-4457-b9b2-e38a69bc7b2c.png">
 <br /> 
- 
-
 
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display: inline-block;">
-    &emsp;&emsp;&emsp;&nbsp;<a style="font-weight:bold" style="font-size: 50px; text-decoration: none"   href="https://github.com/elvac/FeaturesOfInfluenza">Project 1: Influenza Season Features Analysis</a> 
+    &emsp;&emsp;&emsp;&nbsp;<a style="font-weight:bold" style="font-size: 18px; text-decoration: none"   href="https://github.com/elvac/FeaturesOfInfluenza">Project 1: Influenza Season Features Analysis</a> 
     <br /> 
     <img width="400" height="220" src="https://user-images.githubusercontent.com/105080282/168936945-5435256a-256a-43e1-8721-71d95f1baa62.png">
     </div>
     <br /> 
     <div style="display: inline-block;">
-    &emsp;&emsp;&emsp;&nbsp;<a style="font-weight:bold" style="font-size: 50px; text-decoration: none" href="https://github.com/elvac/BusinessStrategySupport">Project 2: Rockbuster Business Strategy Support</a> 
+    &emsp;&emsp;&emsp;&nbsp;<a style="font-weight:bold" style="font-size: 18px; text-decoration: none" href="https://github.com/elvac/BusinessStrategySupport">Project 2: Rockbuster Business Strategy Support</a> 
     <br /> 
     <img width="420" height="220" src="https://user-images.githubusercontent.com/105080282/168955060-b5d298ef-f371-4b7a-8e51-5abd2609168a.png">
     </div>
@@ -32,7 +30,7 @@
 
 <br /> 
 
-&emsp;&emsp;&emsp;&nbsp;<a style="font-weight:bold" style="font-size: 50px; text-decoration: none"   href="https://github.com/elvac/CustomerBehavior">Project 3: Instacart Customer Behavior Analysis</a> 
+&emsp;&emsp;&emsp;&nbsp;<a style="font-weight:bold" style="font-size: 18px; text-decoration: none"   href="https://github.com/elvac/CustomerBehavior">Project 3: Instacart Customer Behavior Analysis</a> 
     <br /> 
 <img width="420" height="220" src="https://user-images.githubusercontent.com/105080282/168955912-f7525b94-090c-42df-8e3d-fcf4a8091ce2.png">
 
@@ -40,7 +38,7 @@
 <br /> 
 <br />
 
-<img width="250" alt="contact_me" src="https://user-images.githubusercontent.com/105080282/168959408-59c77813-4d3e-4fec-af5c-00d8bf0853bd.png">
+<img width="220" alt="contact_me" src="https://user-images.githubusercontent.com/105080282/168959408-59c77813-4d3e-4fec-af5c-00d8bf0853bd.png">
 
 
 
