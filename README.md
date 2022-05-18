@@ -20,35 +20,27 @@
     <div style="display: inline-block;">
     &emsp;&emsp;&emsp;&nbsp;<a href="https://github.com/elvac/FeaturesOfInfluenza">Project 1: Influenza Season Features Analysis</a> 
     <br /> 
-    <img width="400" src="https://user-images.githubusercontent.com/105080282/168936945-5435256a-256a-43e1-8721-71d95f1baa62.png">
+    <img width="400" height="220" src="https://user-images.githubusercontent.com/105080282/168936945-5435256a-256a-43e1-8721-71d95f1baa62.png">
     </div>
+    <br /> 
     <div style="display: inline-block;">
-    <a href="https://github.com/elvac/BusinessStrategySupport">Project 2: Rockbuster Business Strategy Support</a> 
-      <img width="459" alt="movie" src="https://user-images.githubusercontent.com/105080282/168955060-b5d298ef-f371-4b7a-8e51-5abd2609168a.png">
+    &emsp;&emsp;&emsp;&nbsp;<a style="font-weight:bold" href="https://github.com/elvac/BusinessStrategySupport">Project 2: Rockbuster Business Strategy Support</a> 
+    <br /> 
+    <img width="420" height="220" src="https://user-images.githubusercontent.com/105080282/168955060-b5d298ef-f371-4b7a-8e51-5abd2609168a.png">
     </div>
 </div>
-
-
-
-
-
-**[Project 2: Rockbuster Business Strategy Support](https://github.com/elvac/BusinessStrategySupport)**
-<img src=https://github.com/elvac/Image/blob/main/virus.png width="400" height="220">
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-<img src=https://github.com/elvac/Image/blob/main/movie.png width="420" height="220">  
-
-<br /> 
 
 <br /> 
 
 &emsp;&emsp;&emsp;&nbsp;**[Project 3: Instacart Customer Behavior Analysis](https://github.com/elvac/CustomerBehavior)**  
-<img src=https://github.com/elvac/Image/blob/main/cart.png width="430">
+<img width="420" height="220" src="https://user-images.githubusercontent.com/105080282/168955912-f7525b94-090c-42df-8e3d-fcf4a8091ce2.png">
 
 <br /> 
 <br /> 
 <br />
 
 <img src=https://github.com/elvac/Image/blob/main/contact_me.png width="250"> 
+
 
 &nbsp;**E-mail:** [elvac88@gmail.com](mailto:elvac88@gmail.com)
 <br /> 
