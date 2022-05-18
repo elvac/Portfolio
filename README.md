@@ -1,15 +1,39 @@
-<p align="center"><img src=https://github.com/elvac/Image/blob/main/portfolio_cover.png width="1000"></p>
+<p align="center"><img width="1015" src="https://user-images.githubusercontent.com/105080282/168946334-2c70821f-8a86-4930-90c5-f903952c3a5c.png">
+</p>
 
 <br />
-<img src=https://github.com/elvac/Image/blob/main/about_me.png width="250">
-<img src=https://github.com/elvac/Image/blob/main/about_me_content.png width="1000">  
+
+<img width="250" src="https://user-images.githubusercontent.com/105080282/168946607-ad45cb64-aee6-411c-866c-97b406688b04.png">
+<p align="center">
+  <img width="1000" src="https://user-images.githubusercontent.com/105080282/168946651-7f539775-05c4-4d38-8ace-31b6e9a2393b.png">
+</p>
   
 <br />
 <br />
 <br />
-  
-<img src=https://github.com/elvac/Image/blob/main/projects.png width="500">
+<img width="548" src="https://user-images.githubusercontent.com/105080282/168947079-4fe43891-c726-4457-b9b2-e38a69bc7b2c.png">
 <br /> 
+ 
+=== start-multi-column:exampleID_3Columns
+```column-settings
+number of columns: 3
+border: off
+```
+
+# Column 1
+
+=== end-column ===
+
+# Column 2
+
+=== end-column ===
+
+# Column 3
+
+=== end-multi-column
+
+
+
 
 &emsp;&emsp;&emsp;&nbsp;**[Project 1: Influenza Season Features Analysis](https://github.com/elvac/FeaturesOfInfluenza)**
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
