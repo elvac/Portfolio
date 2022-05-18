@@ -14,38 +14,30 @@
 <img width="548" src="https://user-images.githubusercontent.com/105080282/168947079-4fe43891-c726-4457-b9b2-e38a69bc7b2c.png">
 <br /> 
  
-# Rule 1
-Description for rule 1.
+
 
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display: inline-block;">
-        <h2>Good</h2>
-        <pre><code class="language-c">int foo (void) 
-{
-    int i;
-}
-</code></pre>
+    &emsp;&emsp;&emsp;&nbsp;<a href="https://github.com/elvac/FeaturesOfInfluenza">Project 1: Influenza Season Features Analysis</a> 
+    <br /> 
+    <img width="400" src="https://user-images.githubusercontent.com/105080282/168936945-5435256a-256a-43e1-8721-71d95f1baa62.png">
     </div>
     <div style="display: inline-block;">
-        <h2>Bad</h2>
-        <pre><code class="language-c">int foo (void) {
-    int i;
-}
-</code></pre>
+    <a href="https://github.com/elvac/BusinessStrategySupport">Project 2: Rockbuster Business Strategy Support</a> 
+      <img width="459" alt="movie" src="https://user-images.githubusercontent.com/105080282/168955060-b5d298ef-f371-4b7a-8e51-5abd2609168a.png">
     </div>
 </div>
 
 
 
 
-&emsp;&emsp;&emsp;&nbsp;**[Project 1: Influenza Season Features Analysis](https://github.com/elvac/FeaturesOfInfluenza)**
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
+
 **[Project 2: Rockbuster Business Strategy Support](https://github.com/elvac/BusinessStrategySupport)**
 <img src=https://github.com/elvac/Image/blob/main/virus.png width="400" height="220">
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <img src=https://github.com/elvac/Image/blob/main/movie.png width="420" height="220">  
 
-<br /> <img width="933" alt="virus" src="https://user-images.githubusercontent.com/105080282/168936945-5435256a-256a-43e1-8721-71d95f1baa62.png">
+<br /> 
 
 <br /> 
 
