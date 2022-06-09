@@ -21,21 +21,22 @@
 
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display: inline-block;">
-    &emsp;&emsp;&emsp;&nbsp;<a style="font-weight:bold" style="font-size: 18px; text-decoration: none"   href="https://github.com/elvac/FeaturesOfInfluenza">Project 1: Influenza Season Features Analysis</a> 
+    &emsp;&emsp;&emsp;&nbsp;<a style="font-weight:bold" style="font-size: 20px; text-decoration: none"   href="https://github.com/elvac/FeaturesOfInfluenza">Project 1: Influenza Season Features Analysis</a> 
     <br /> 
     <img width="400" height="220" src="https://user-images.githubusercontent.com/105080282/168936945-5435256a-256a-43e1-8721-71d95f1baa62.png">
     </div>
     <br /> 
+    <br /> 
     <div style="display: inline-block;">
-    &emsp;&emsp;&emsp;&nbsp;<a style="font-weight:bold" style="font-size: 18px; text-decoration: none" href="https://github.com/elvac/BusinessStrategySupport">Project 2: Rockbuster Business Strategy Support</a> 
+    &emsp;&emsp;&emsp;&nbsp;<a style="font-weight:bold" style="font-size: 20px; text-decoration: none" href="https://github.com/elvac/BusinessStrategySupport">Project 2: Rockbuster Business Strategy Support</a> 
     <br /> 
     <img width="420" height="220" src="https://user-images.githubusercontent.com/105080282/168955060-b5d298ef-f371-4b7a-8e51-5abd2609168a.png">
     </div>
 </div>
-
+<br /> 
 <br /> 
 
-&emsp;&emsp;&emsp;&nbsp;<a style="font-weight:bold" style="font-size: 18px; text-decoration: none"   href="https://github.com/elvac/CustomerBehavior">Project 3: Instacart Customer Behavior Analysis</a> 
+&emsp;&emsp;&emsp;&nbsp;<a style="font-weight:bold" style="font-size: 20px; text-decoration: none"   href="https://github.com/elvac/CustomerBehavior">Project 3: Instacart Customer Behavior Analysis</a> 
     <br /> 
 <img width="420" height="220" src="https://user-images.githubusercontent.com/105080282/168955912-f7525b94-090c-42df-8e3d-fcf4a8091ce2.png">
 
