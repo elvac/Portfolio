@@ -1,17 +1,19 @@
 <p align="center"><img width="1015" src="https://user-images.githubusercontent.com/105080282/168946334-2c70821f-8a86-4930-90c5-f903952c3a5c.png">
 </p>
+<img width="989" alt="border_line" src="https://user-images.githubusercontent.com/105080282/168962767-d06e5909-6989-4cae-8c0c-b08c2e964785.png">
 
 <br />
 <img width="190" src="https://user-images.githubusercontent.com/105080282/168946607-ad45cb64-aee6-411c-866c-97b406688b04.png">
 
 <p align="center">
-<img width="950" alt="Screen Shot 2022-08-11 at 11 09 52 AM" src="https://user-images.githubusercontent.com/105080282/184209528-d08b70eb-4b8a-486a-ab49-5ab6e002862d.png">
+<img width="950" alt="About me content" src="https://user-images.githubusercontent.com/105080282/184209528-d08b70eb-4b8a-486a-ab49-5ab6e002862d.png">
 
 <br />
 </p>
   
 <br />
 <br />
+<img width="989" alt="border_line" src="https://user-images.githubusercontent.com/105080282/168962767-d06e5909-6989-4cae-8c0c-b08c2e964785.png">
 
 <br />
 <img width="400" src="https://user-images.githubusercontent.com/105080282/168947079-4fe43891-c726-4457-b9b2-e38a69bc7b2c.png">
